@@ -18,7 +18,7 @@ import (
 	"golang.org/x/crypto/ssh"
 	"golang.org/x/crypto/ssh/agent"
 
-	bunkr_client "github.com/off-the-grid-inc/murmur/bunkr-client"
+	bunkr_client "github.com/off-the-grid-inc/bunkr-client"
 	"github.com/off-the-grid-inc/murmur/ssh-agent/storage"
 )
 
